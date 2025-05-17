@@ -19,9 +19,8 @@ fonts:
     source: google
     
 profile:
-  title: Hello,
-  subtitle: Welcome to MAXTRNN Navigation
-  description: 导航菜单
+  title: Hello, I'm MAX--你好，我是MAX
+  subtitle: Welcome to MAXTRNN's personal navigation site--欢迎来到MAXTRNN的个人导航站
 
 social:
   - name: GitHub
