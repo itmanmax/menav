@@ -19,8 +19,8 @@ fonts:
     source: google
     
 profile:
-  title: Hello, I'm MAX--你好，我是MAX
-  subtitle: Welcome to MAXTRNN's personal navigation site--欢迎来到MAXTRNN的个人导航站
+  title: Hello, I'm MAX
+  subtitle: Welcome to MAXTRNN's personal navigation site
 
 social:
   - name: GitHub
@@ -35,6 +35,6 @@ social:
   - name: Steam
     url: https://steamcommunity.com/profiles/76561199097239066/
     icon: fab fa-steam 
-  - name: QQ
+  - name: QQ群聊
     url: https://cloudflare.maxtral.fun/HWlUGj
     icon: fab fa-qq 
