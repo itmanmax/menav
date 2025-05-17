@@ -159,6 +159,11 @@ body {
     font-weight: var(--font-weight-body);
     line-height: 1.6;
     background-color: var(--bg-color);
+    background-image: url('https://img.picui.cn/free/2025/05/17/6827fb9889912.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: var(--text-color);
     min-height: 100vh;
     overflow: hidden; /* 防止body滚动 */

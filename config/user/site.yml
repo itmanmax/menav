@@ -1,6 +1,6 @@
-title: 我的导航
-description: 个人网络导航站
-author: Your Name
+title: MAX的导航
+description: 个人导航站
+author: MAXTRNN
 favicon: favicon.ico
 logo_text: 导航站
 
@@ -20,19 +20,22 @@ fonts:
     
 profile:
   title: Hello,
-  subtitle: Welcome to My Navigation
+  subtitle: Welcome to MAXTRNN Navigation
   description: 导航菜单
 
 social:
   - name: GitHub
-    url: https://github.com
+    url: https://github.com/itmanmax
     icon: fab fa-github
-  - name: Telegram
-    url: https://t.me
-    icon: fab fa-telegram
-  - name: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
+  - name: TikTok
+    url: https://cloudflare.maxtral.fun/H0xalL
+    icon: fab fa-tiktok
+  - name: X
+    url: https://x.com/maxtr2n?s=21
+    icon: fab fa-x
   - name: Steam
-    url: https://steam.com
+    url: https://steamcommunity.com/profiles/76561199097239066/
     icon: fab fa-steam 
+  - name: QQ
+    url: https://cloudflare.maxtral.fun/HWlUGj
+    icon: fab fa-qq 
