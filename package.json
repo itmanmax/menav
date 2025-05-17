@@ -8,7 +8,7 @@
     "generate": "node src/generator.js",
     "dev": "node src/generator.js && serve dist",
     "clean": "rm -rf dist",
-    "build": "npm run clean && npm run generate",
+    "build": "npm run import-bookmarks && npm run clean && npm run generate",
     "restructure": "node restructure.js",
     "migrate-config": "node src/migrate-config.js",
     "import-bookmarks": "node src/bookmark-processor.js"

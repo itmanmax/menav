@@ -1,0 +1,108 @@
+title: "我的书签"
+subtitle: "从浏览器导入的个人书签收藏"
+template: "home" # 使用 'home' 模板来展示分类链接
+
+categories:
+  - name: "学习"
+    icon: "fas fa-graduation-cap"
+    sites:
+      - name: "AbnerMing888/AndroidShortcutTools"
+        url: "https://github.com/AbnerMing888/AndroidShortcutTools"
+        icon: "fab fa-github"
+        description: "Android自动生成代码，可视化脚手架"
+      - name: "408算法题力扣题单推荐 - 知乎"
+        url: "https://zhuanlan.zhihu.com/p/645297108"
+        icon: "fab fa-zhihu" # 尝试使用知乎品牌图标
+        description: "408算法题力扣题单推荐"
+      - name: "Iconify - home of open source icons"
+        url: "https://icon-sets.iconify.design/"
+        icon: "fas fa-icons"
+        description: "开源图标集合"
+      - name: "牛客网"
+        url: "https://www.nowcoder.com/"
+        icon: "fas fa-laptop-code"
+        description: "找工作神器|笔试题库|面试经验"
+      - name: "力扣（LeetCode）官网"
+        url: "https://leetcode.cn/"
+        icon: "fas fa-keyboard"
+        description: "全球极客挚爱的技术成长平台"
+
+  - name: "工具"
+    icon: "fas fa-tools"
+    sites:
+      - name: "登录QQ邮箱"
+        url: "https://wx.mail.qq.com/?cancel_login=true&from=get_ticket_fail"
+        icon: "fas fa-envelope"
+        description: "QQ邮箱"
+      - name: "Curs0r Pool" # 文本到手写内容
+        url: "https://pool.curs0r.me/auth/signin?callbackUrl=%2F" # "https://saurabhdaware.github.io/text-to-handwriting/"
+        icon: "fas fa-pencil-alt" # "fas fa-file-signature"
+        description: "Curs0r Pool 登录" # "将文本转换为手写字体"
+      - name: "UU在线工具"
+        url: "https://uutool.cn/"
+        icon: "fas fa-toolbox"
+        description: "便捷实用的工具集合站"
+      - name: "GitHub 文件加速 - Sonder"
+        url: "https://github.akams.cn/"
+        icon: "fas fa-rocket"
+        description: "GitHub 文件加速下载"
+
+  - name: "娱乐"
+    icon: "fas fa-gamepad"
+    sites:
+      - name: "Satisfactory - Calculator"
+        url: "https://satisfactory-calculator.com/zh/buildings"
+        icon: "fas fa-industry"
+        description: "幸福工厂计算器与工具"
+      - name: "LINUX DO"
+        url: "https://linux.do/"
+        icon: "fab fa-linux"
+        description: "新的理想型社区"
+      - name: "哔哩哔哩"
+        url: "https://www.bilibili.com/"
+        icon: "fab fa-bilibili"
+        description: "(゜-゜)つロ 干杯~"
+      - name: "音范丝"
+        url: "https://www.yinfans.me/"
+        icon: "fas fa-film"
+        description: "精选4K蓝光原盘下载"
+
+  - name: "自己的网站" # 您自己的项目
+    icon: "fas fa-globe-asia"
+    sites:
+      - name: "MAXBROSER - max出版"
+        url: "https://www.maxtral.fun/"
+        icon: "fas fa-server"
+        description: "综合社区论坛音影框架"
+      - name: "MAX的图床"
+        url: "https://pic.maxtral.online/"
+        icon: "fas fa-images"
+        description: "个人图床服务"
+      - name: "NextChat" # (GPTv.maxtral.fun)
+        url: "https://gptv.maxtral.fun/"
+        icon: "fas fa-comments-dollar" # Or fas fa-robot
+        description: "AI聊天应用"
+      - name: "MAX-门户-1" # (home.maxtral.fun)
+        url: "https://home.maxtral.fun/"
+        icon: "fas fa-home"
+        description: "个人门户"
+
+  - name: "AI" # AI工具分类，从"工具"大类中提取出来，因为它有很多链接
+    icon: "fas fa-brain"
+    sites:
+      - name: "You.com"
+        url: "https://you.com/?chatMode=default"
+        icon: "fas fa-search"
+        description: "AI for workplace productivity"
+      - name: "智谱清言"
+        url: "https://chatglm.cn/main/detail"
+        icon: "fas fa-comment-dots"
+        description: "智谱AI的对话模型"
+      - name: "ChatGPT"
+        url: "https://chatgpt.com/"
+        icon: "fas fa-robot" # Generic AI icon
+        description: "OpenAI ChatGPT"
+      - name: "Kimi.ai"
+        url: "https://kimi.moonshot.cn/"
+        icon: "fas fa-moon"
+        description: "会推理解析，能深度思考的AI助手" 
