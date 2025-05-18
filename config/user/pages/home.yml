@@ -57,7 +57,7 @@ categories:
     icon: fas fa-cogs
     sites:
       - name: 阿里2h2g
-        url: 8.130.97.54:4915
+        url: https://8.130.97.54:4915
         icon: fas fa-server
         description: 阿里云2h2g管理面板
 
@@ -67,7 +67,7 @@ categories:
         description: 华为云2g4g管理面板
 
       - name: 华为云2h2g
-        url: 1.94.111.243:4915
+        url: https://1.94.111.243:4915
         icon: fas fa-server
         description: 华为云2h2g管理面板
 
