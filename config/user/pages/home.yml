@@ -30,6 +30,11 @@ categories:
         icon: fas fa-code
         description: 算法刷题平台
 
+      - name: 学习通
+        url: https://i.chaoxing.com/base?t=1670383247885
+        icon: fas fa-book
+        description: 学习通
+
   - name: 常用AI
     icon: fas fa-robot
     sites:
@@ -38,20 +43,10 @@ categories:
         icon: fas fa-robot
         description: OpenAI
 
-      - name: Grok镜像网站
-        url: https://grok.be-a.dev/
-        icon: fas fa-mirror
-        description: Grok镜像网站
-
       - name: KIMI
         url: https://kimi.moonshot.cn/
         icon: fas fa-robot
         description: KIMI AI
-
-      - name: FuClaude
-        url: https://demo.fuclaude.com/
-        icon: fas fa-robot
-        description: Claude的镜像网站
 
   - name: 管理面板
     icon: fas fa-cogs
